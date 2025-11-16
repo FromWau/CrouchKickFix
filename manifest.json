@@ -1,0 +1,7 @@
+{
+    "name": "CrouchKickFix",
+    "version_number": "1.0.0",
+    "description": "Adds an 8ms input buffer for crouch kicks, making them easier to execute consistently",
+    "website_url": "https://github.com/FromWau/CrouchKickFix",
+    "dependencies": []
+}

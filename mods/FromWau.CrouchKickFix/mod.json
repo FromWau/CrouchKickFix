@@ -1,0 +1,16 @@
+{
+    "Name": "Crouch Kick Fix",
+    "Description": "Automatically enables the 8ms crouch kick input buffer with visual confirmation",
+    "Version": "1.0.0",
+    "LoadPriority": 1,
+
+    "Scripts": [
+        {
+            "Path": "init_crouchkick.nut",
+            "RunOn": "CLIENT",
+            "ClientCallback": {
+                "Before": "InitCrouchKickFix"
+            }
+        }
+    ]
+}
