@@ -15,5 +15,6 @@ void function CrouchKickFix_Settings()
 
         ModSettings_AddModCategory( "Feedback" )
         ModSettings_AddEnumSetting( "ckf_ui_feedback", "Enable UI Feedback", ["Off", "On"] )
+        ModSettings_AddEnumSetting( "ckf_crouch_only", "Crouch Kicks Only", ["Off", "On"] )
     #endif
 }

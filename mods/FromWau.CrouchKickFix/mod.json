@@ -7,7 +7,8 @@
 
     "ConVars": [
         { "Name": "ckf_enabled", "DefaultValue": "1", "Flags": 16777232 },
-        { "Name": "ckf_ui_feedback", "DefaultValue": "1", "Flags": 16777232 }
+        { "Name": "ckf_ui_feedback", "DefaultValue": "1", "Flags": 16777232 },
+        { "Name": "ckf_crouch_only", "DefaultValue": "1", "Flags": 16777232 }
     ],
 
     "Scripts": [

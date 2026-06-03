@@ -5,6 +5,7 @@
     "website_url": "https://github.com/FromWau/CrouchKickFix",
     "dependencies": [
         "northstar-Northstar-1.0.0",
-        "EladNLG-ModSettings-2.1.0"
+        "EladNLG-ModSettings-2.1.0",
+        "FromWau-Units-1.0.0"
     ]
 }
